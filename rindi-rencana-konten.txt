@@ -1,0 +1,9 @@
+RENCANA KONTEN RINDI
+
+- User Interface Design (UI)
+- User Experience Research(UX)
+- Front-End
+  * HTML
+  * CSS
+  * Javascript
+- Back-End
