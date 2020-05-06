@@ -5,6 +5,5 @@ RENCANA 1
   * HTML
   * CSS
   * Javascript
-  * Angular
   * React
 - Back-End
