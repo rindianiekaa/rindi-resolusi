@@ -6,7 +6,6 @@ RENCANA 2
   * CSS
   * Javascript
   * Angular
-  * React JS
 - Back-End
   * Node.Js
   
