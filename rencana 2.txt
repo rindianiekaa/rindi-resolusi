@@ -1,0 +1,12 @@
+RENCANA 2
+- User Interface Design
+- User Experience Research
+- Front-End
+  * HTML
+  * CSS
+  * Javascript
+  * Angular
+  * React JS
+- Back-End
+  * Node.Js
+  
